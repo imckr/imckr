@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-![eye-12452](https://github.com/user-attachments/assets/3f74a196-c006-444f-a40a-5bd3a5d6959e)
--->
-<!--
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJkYzM4bnpyamM1b3RpZGFxemQ4czdpYjFremQ0cGhreWVkM2dlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQ8QnhKxbBUB5oA/giphy.webp" />
--->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VrbGxsZzN5b2toaGE2YzFoOGI5dWZlNmlyYWY0NGZ4eXpzdDBlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtmjSV2ASnCkXUg5co/giphy.webp" />
+
 <!--
 <span>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NhZ3RubnJna29yYTlhbHkyenh2ODVueG9nOWF2bjNzZ3YzODh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7ZXCDOSWdK2ifLYIG/giphy.webp" />
 </span>
--->
+
 <span>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVhdHFydnVzMnFsZWU1N3ZhNGwzOTB2NXE0OWowajkwcGlhamg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4Ki6yhicwLGvtwB2/giphy.webp" />
 </span>
