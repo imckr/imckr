@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![eye-12452](https://github.com/user-attachments/assets/3f74a196-c006-444f-a40a-5bd3a5d6959e)
-
+<!--
 ![Computer Science](https://github.com/user-attachments/assets/97fcd3fe-87ab-42e4-96a4-2a67ea26b694)
-
+-->
 
 
 
