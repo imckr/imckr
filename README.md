@@ -1,6 +1,8 @@
-### Hi there 👋
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VrbGxsZzN5b2toaGE2YzFoOGI5dWZlNmlyYWY0NGZ4eXpzdDBlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtmjSV2ASnCkXUg5co/giphy.webp" />
+
+### Hii 👋 I am Chandra!!
+
+
 
 <!--
 <span>
