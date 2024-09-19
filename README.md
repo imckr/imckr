@@ -1,4 +1,8 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ1MDNuZzQ2Z2ZybDRxNG9jbDU1YTJnMGF1d3R4cHhtYzU0MnhyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.webp" />
+
+<!--
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VrbGxsZzN5b2toaGE2YzFoOGI5dWZlNmlyYWY0NGZ4eXpzdDBlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtmjSV2ASnCkXUg5co/giphy.webp" />
+-->
 
 ### Hii 👋 I am Chandra!!
 
